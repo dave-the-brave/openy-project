@@ -1,10 +1,10 @@
 {
-    "name": "ymcatwincities/openy-project",
-    "description": "Project template for OpenY projects with composer",
+    "name": "dave-the-brave/openy-project",
+    "description": "Dev project template for OpenY projects with composer",
     "type": "project",
     "license": "GPL-2.0+",
     "require": {
-        "ymcatwincities/openy": "dev-8.x-1.x",
+        "dave-the-brave/openy": "dev-8.x-1.x",
         "composer/installers": "^1.2",
         "drupal-composer/drupal-scaffold": "^2.2",
         "cweagans/composer-patches": "~1.0"
